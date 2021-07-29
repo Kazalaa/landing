@@ -1,0 +1,12 @@
+.links{
+  text-align: center;
+}
+
+.links > a{
+  color: #1EDD88;
+  font-size: 30px;
+}
+
+.links > p{
+  color: #6B6C6C;
+}
